@@ -1,0 +1,19 @@
+{
+  "name": "graphql-getting-started",
+  "version": "1.0.0",
+  "description": "graphql-getting-started",
+  "scripts": {
+    "build": "node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logan70/graphql-getting-started.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logan70/graphql-getting-started/issues"
+  },
+  "homepage": "https://github.com/logan70/graphql-getting-started#readme"
+}
